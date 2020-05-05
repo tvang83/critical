@@ -10,7 +10,10 @@ namespace problemSolving
     {
         static void Main(string[] args)
         {
-        
+
+            CalculatorMadness test = new CalculatorMadness();
+
+
         }
     }
 }
